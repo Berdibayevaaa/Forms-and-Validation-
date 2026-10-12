@@ -3,7 +3,7 @@
 **Name:** Sayazhan Berdibayeva  
 **Group:** IT-2501  
 
-
+link:https://berdibayevaaa.github.io/Forms-and-Validation-/
 ## Project Description
 
 This project demonstrates how to create HTML forms, use HTML5 validation, style forms with Bootstrap, and validate user input using JavaScript.
